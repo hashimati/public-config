@@ -1,1 +1,2 @@
-Hello: "Ahmed Al Hashmi"
+hello:
+	name: "Hello Ahmed"
